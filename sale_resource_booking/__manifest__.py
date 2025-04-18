@@ -4,7 +4,7 @@
 {
     "name": "Sell Resource Bookings",
     "summary": "Link resource bookings with sales",
-    "version": "16.0.2.0.0",
+    "version": "16.0.2.0.1",
     "development_status": "Beta",
     "category": "Appointments",
     "website": "https://github.com/OCA/sale-workflow",
@@ -13,6 +13,7 @@
     "license": "AGPL-3",
     "depends": ["sale", "resource_booking", "web_ir_actions_act_multi"],
     "data": [
+        "data/ir_actions_server.xml",
         "views/product_attribute_views.xml",
         "views/product_product_views.xml",
         "views/product_template_views.xml",
