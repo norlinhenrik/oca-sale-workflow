@@ -4,7 +4,7 @@
 {
     "name": "Sell Resource Bookings",
     "summary": "Link resource bookings with sales",
-    "version": "16.0.2.0.1",
+    "version": "16.0.2.0.2",
     "development_status": "Beta",
     "category": "Appointments",
     "website": "https://github.com/OCA/sale-workflow",
