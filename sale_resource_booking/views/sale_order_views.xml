@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Copyright 2021 Tecnativa - Jairo Llopis
      License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
-<data>
+<odoo>
     <record id="view_order_form" model="ir.ui.view">
         <field name="name">Display resource booking info in form</field>
         <field name="model">sale.order</field>
@@ -35,4 +35,4 @@
             </div>
         </field>
     </record>
-</data>
+</odoo>
